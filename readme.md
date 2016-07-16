@@ -1,4 +1,4 @@
-<a href="http://polar-bayou-48372.herokuapp.com/#/?_k=yh27kj">DEMO APP </a>
+<a href="https://shrouded-dusk-29578.herokuapp.com/">DEMO APP </a>
 
 <h1>React timer App</h1>
 
