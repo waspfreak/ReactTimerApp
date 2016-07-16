@@ -6,8 +6,15 @@
   .menu-text{
     color: $nav-text-color;
   }
+
+  .active-link{
+    font-weight: bold;
+  }
+
+}
+
+.top-bar-right{
   .menu > li > a{
     display: inline-block;
-    padding: 0;
   }
 }
